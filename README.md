@@ -48,7 +48,7 @@
 ![Time Dynamics & Guardrail Metrics](./Time%20dynamics_guardrail%20metrics.png)
 
 ### 4. Detail Stat Table (Статистична деталізація)
-Повне статистичне зведення результатів із p-values, абсолютним/відносним ліфтом та 95% довірильними інтервалами.
+Повне статистичне зведення результатів із p-values, абсолютним/відносним ліфтом та 95% довірчими інтервалами.
 
 ![Stat Summary](./Stat%20summary.png)
 
@@ -110,4 +110,4 @@ print(f"RPU Welch's t-test p-value: {p_val_rpu:.4f}")
 
 ---
 *Автор: Іван Раделицький*  
-*[Tableau Public Profile](https://public.tableau.com/profile/ivan.radelytskyi)*
+*[Tableau Public Profile](https://public.tableau.com/app/profile/ivananalyst/vizzes)*
