@@ -1,0 +1,5 @@
+Metric,Group_A,Group_B,Absolute_Lift,Relative_Lift_%,P_Value,Is_Stat_Significant
+Conversion Rate,0.0981,0.1281,0.03,30.62,0.0,True
+Add-to-Cart Rate,0.2468,0.2888,0.0419,16.99,0.0,True
+Revenue per User (RPU),7.18,10.13,2.94,40.96,0.0,True
+Average Order Value (AOV),73.22,79.02,5.8,7.92,0.02458,True
